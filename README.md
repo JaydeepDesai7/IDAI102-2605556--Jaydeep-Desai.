@@ -1,6 +1,10 @@
 # IDAI102-2605556--Jaydeep-Desai.
 ShopImpact -- Conscious Shopping Dashboard
+ 
+ 
 Streamlit link of the app:
+
+
 Shop smarter. Live greener.
 
 ShopImpact is a Python-based web application concept that helps people
