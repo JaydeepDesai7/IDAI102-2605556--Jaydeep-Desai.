@@ -2,7 +2,7 @@
 ShopImpact -- Conscious Shopping Dashboard
  
  
-Streamlit link of the app:
+Streamlit link of the app:https://idai102-2605556--jaydeep-desai-as8tttzxupl9th5orhy3la.streamlit.app
 
 
 Shop smarter. Live greener.
